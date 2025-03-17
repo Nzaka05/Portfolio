@@ -1,1 +1,54 @@
+# Nzaka Portfolio Website
+
+Welcome to my personal portfolio website! This is a showcase of my journey as an aspiring web developer, highlighting my skills, projects, and passion for creating user-friendly websites.
+
+## 🌟 Features
+- **About Me**: Learn more about my background and skills.
+- **Projects**: Explore some of my latest work.
+- **Recipes**: Check out my favorite dishes with step-by-step guides.
+- **Responsive Design**: Fully optimized for all devices.
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 📁 Project Structure
+```
+Nzaka-Portfolio/
+│
+├── index.html       # Main landing page
+├── style.css        # Styling for the website
+├── images/          # Contains all media assets
+│   ├── profile.jpg
+│   ├── recipe1.jpg
+│   ├── recipe2.jpg
+│
+└── README.md        # Project documentation
+```
+
+## 🚀 Getting Started
+To run this project locally:
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Nzaka05/portfolio.git
+   ```
+2. Open `index.html` in your preferred browser.
+
+## 🎯 Future Enhancements
+- Add JavaScript for interactivity.
+- Implement a contact form.
+- Include more projects and blog posts.
+
+## 📬 Contact
+Feel free to reach out:
+- 📧 Email: [nzakagideon05@gmail.com](mailto:nzakagideon05@gmail.com)
+-contact: 0740833092
+- 🐦 Twitter: [nzakagideon](https://x.com/nzakagideon)
+- 💼 LinkedIn: [Nzaka05](https://www.linkedin.com/in/Nzaka05)
+
+---
+
+🌟 **Star this repository if you like it!** ⭐
+
 
